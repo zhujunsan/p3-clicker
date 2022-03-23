@@ -4,9 +4,7 @@ sidebar: auto
 ---
 
 ::: slot footer
-CC-BY-4.0 @2022 San
-
-沪ICP备18033591号-1
+CC-BY-4.0 @2022 San | <a href="https://beian.miit.gov.cn" target="_blank">沪ICP备18033591号-1</a>
 :::
 
 ## 简介
