@@ -55,3 +55,4 @@ P3 Clicker 基于 Arduino + DigistumpArduino 开发
 - [DigistumpArduino](https://github.com/digistump/DigistumpArduino)
 - [ArminJo/DigistumpArduino](https://github.com/ArminJo/DigistumpArduino)
 
+你如果对其他模块感兴趣，可以查看 [P3-LTE](https://p3-lte.wulige.com)

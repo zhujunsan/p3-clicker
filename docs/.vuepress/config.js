@@ -8,6 +8,9 @@ module.exports = {
     'vuepress-plugin-medium-zoom',
     'vuepress-plugin-smooth-scroll'
   ],
+  head: [
+    ['link', {rel: "shortcut icon", type: "image/png", sizes: "16x16", href: "/favicon.ico"}],
+  ],
   markdown: {
     toc: {
       includeLevel:[1, 2, 3, 4]
